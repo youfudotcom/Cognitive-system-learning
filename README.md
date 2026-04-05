@@ -46,6 +46,62 @@ WHY：我对**复杂系统相似的组织模式及其背后的数学直觉与哲
 欢迎批评、讨论、一起探索。
 
 今年下半年或明年可能会在线上组建reading group，联系方式：A17680800231@163.com
+--------------------------------------
+# Emergence in Complex Systems: Organizational Principles of Cognition and Computation
+
+## Repository Overview
+
+**WHAT**: This repository documents my exploration of a core question: **What are the similar organizational principles underlying complex systems such as cognitive systems (brain/consciousness) and computer systems (including AI)?**
+
+**WHY**: I am fascinated by the **similar organizational patterns in complex systems and the mathematical intuitions and philosophical ideas behind them**. I hope to attract like-minded individuals for mutual inspiration, correction, and growth.
+
+## Why Public
+
+**Accountability**:
+- Push myself to produce regularly
+- Push myself to solve one specific problem every day
+
+**Finding**:
+- People who love truth and are not confined by research formats
+- People drawn to similar questions
+- Sincere people who enjoy exploration
+
+## Tracking Method
+
+**Weekly learning logs will be updated here**:
+
+**1. Human Intelligence Systems**:
+- Free Energy Principle (FEP)
+- Integrated Information Theory (IIT)
+- New models to be added in the future
+
+**2. Computer Systems & AI**:
+- Operating system architecture
+- AI systems
+- Robotics and embodied cognition
+
+**3. Cross-System Questions**
+
+## Additional Notes
+
+This is not a tutorial, but learning notes. It will include:
+- Correct understanding
+- **Incorrect understanding** (with corrections)
+- Confusing questions
+- Possibly naive ideas
+
+If you:
+- Are also thinking about these questions
+- Spotted my misunderstandings
+- Have different perspectives
+
+Critique, discussion, and joint exploration are welcome.
+
+I may organize an online reading group in the second half of this year or next year. Contact: A17680800231@163.com
+
+---
+
+*Last updated: 2024.04.06*
 
 ---
 Last updated: 2026.04.05
