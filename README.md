@@ -101,8 +101,4 @@ Critique, discussion, and joint exploration are welcome.
 I may organize an online reading group in the second half of this year or next year. Contact: A17680800231@163.com
 
 ---
-
-*Last updated: 2024.04.06*
-
----
 Last updated: 2026.04.05
