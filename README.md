@@ -46,6 +46,7 @@ WHY：我对**复杂系统相似的组织模式及其背后的数学直觉与哲
 欢迎批评、讨论、一起探索。
 
 今年下半年或明年可能会在线上组建reading group，联系方式：A17680800231@163.com
+
 --------------------------------------
 # Emergence in Complex Systems: Organizational Principles of Cognition and Computation
 
